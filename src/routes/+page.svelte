@@ -261,7 +261,7 @@
         }
 
 		p5.setup = () => {
-			p5.createCanvas(850, 850);
+			p5.createCanvas(900, 850);
   
             //Cube Points
             points.push(new Matrix ([[-1,-1,-1]]));
